@@ -206,6 +206,7 @@ www.amazon.ca##.a-spacing-top-micro.a-spacing-small.a-section
 www.amazon.ca###primeDPUpsellStaticContainer
 www.amazon.ca###sc-abovethefold
 www.amazon.ca###sc-functional
+www.amazon.ca##.aok-clearfix.gwm-u-blackjack-typography
 
 ! some youtube.com things to hide, to make the website more usable. designed to look good when logged in. does break some things.
 ! note: you must disable cosmetic filtering TEMPORARALY to subscribe to any channel. i recommend going to the channel page, to avoid excessive advertisments.
