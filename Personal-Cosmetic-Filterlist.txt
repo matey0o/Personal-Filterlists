@@ -76,6 +76,7 @@ duckduckgo.com##.Yy4FVTLlXDKk7XaBX_nT._I0sotAoeGtAJzkzyutg.fIgpqHfKgUmmk5lqmvL5
 duckduckgo.com##.YL_aMfikzFszfcc4KLSh.js-react-sidebar.gdzyb9PgLazLyi4DKK0O
 duckduckgo.com##.q3Y6JH2mQqbMm6F6wNQy
 duckduckgo.com##.LyWdLuy0Ygu0M7IF12o7
+duckduckgo.com##.pull-tab-scroll-button_peekButton__xReTe
 start.duckduckgo.com##ul:nth-of-type(2)
 start.duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(2)
 start.duckduckgo.com##section.sideMenu_section__qPsAX:nth-of-type(3)
