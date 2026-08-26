@@ -22,6 +22,7 @@
 0.0.0.0 api.rewards.brave.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 apps.mozillalabs.com
+0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 autopush.prod.mozaws.net
 0.0.0.0 balrog-admin.dev.mozaws.net
 0.0.0.0 balrog-admin.stage.mozaws.net
@@ -37,6 +38,7 @@
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.grainify.com
 0.0.0.0 cdn.luckyorange.com
+0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 click-on-this-now.online
 0.0.0.0 click.googleanalytics.com
 0.0.0.0 content-signature.cdn.mozilla.net
@@ -51,6 +53,7 @@
 0.0.0.0 de.malware-report.mozilla.com
 0.0.0.0 firefoxflicks.com
 0.0.0.0 freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
 0.0.0.0 ftp.mozilla.org
 0.0.0.0 gaming.mozillalabs.com
 0.0.0.0 geo.yahoo.com
@@ -78,6 +81,7 @@
 0.0.0.0 lazybumblebee.com
 0.0.0.0 live.mozillamessaging.com
 0.0.0.0 live.thunderbird.net
+0.0.0.0 log.fc.yahoo.com
 0.0.0.0 loop.services.mozilla.com
 0.0.0.0 luckyorange.com
 0.0.0.0 m.doubleclick.net
